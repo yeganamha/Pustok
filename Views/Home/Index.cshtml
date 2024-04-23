@@ -1,5 +1,9 @@
-﻿@{
+﻿@model HomeViewModel
+@{
     ViewData["Title"] = "Home Page";
+}
+@{
+    int SliderCount = 0;
 }
 <!--=================================
 Hero Area
@@ -13,30 +17,34 @@ Hero Area
                             "slidesToShow": 1,
                             "dots":true
                             }'>
-        <div class="single-slide bg-shade-whisper  ">
-            <div class="container">
-                <div class="home-content text-center text-sm-left position-relative">
-                    <div class="hero-partial-image image-right">
-                        <img src="~/assets/image/bg-images/home-slider-2-ai.png" alt="">
-                    </div>
-                    <div class="row no-gutters ">
-                        <div class="col-xl-6 col-md-6 col-sm-7">
-                            <div class="home-content-inner content-left-side">
-                                <h1>
-                                    H.G. Wells<br>
-                                    De Vengeance
-                                </h1>
-                                <h2>Cover Up Front Of Books and Leave Summary</h2>
-                                <a href="shop-grid.html" class="btn btn-outlined--primary">
-                                    $78.09 - Order Now!
-                                </a>
+       @foreach(var item in Model.Sliders)
+        {
+            <div class="single-slide @(SliderCount==0?"bg-ghost-white":"bg-shade-whisper")" >
+                <div class="container">
+                    <div class="home-content text-center text-sm-left position-relative">
+                        <div class="hero-partial-image image-right">
+                            <img src="~/assets/image/bg-images/home-slider-2-ai.png" alt="">
+                        </div>
+                        <div class="row no-gutters ">
+                            <div class="col-xl-6 col-md-6 col-sm-7">
+                                <div class="home-content-inner content-left-side">
+                                    <h1>
+                                       @item.Title1<br>
+                                        @item.Title2
+                                    </h1>
+                                    <h2>@item.Desc</h2>
+                                    <a href="@item.BtnUrl" class="btn btn-outlined--primary">
+                                        @item.BtnText
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
-        </div>
-        <div class="single-slide bg-ghost-white">
+            SliderCount++;
+        }
+        @* <div class="single-slide bg-ghost-white">
             <div class="container">
                 <div class="home-content text-center text-sm-left position-relative">
                     <div class="hero-partial-image image-left">
@@ -58,7 +66,7 @@ Hero Area
                     </div>
                 </div>
             </div>
-        </div>
+        </div>*@
     </div>
 </section>
 <!--=================================
@@ -2502,8 +2510,8 @@ Promotion Section Two
             <div class="col-lg-8 mb--30">
                 <div class="promo-wrapper promo-type-one">
                     <a href="#" class="promo-image  promo-overlay bg-image"
-                       data-bg="image/bg-images/promo-banner-mid.jpg">
-                        <!-- <img src="~/assets/image/bg-images/promo-banner-mid.jpg" alt=""> -->
+                       data-bg="~/assets/image/bg-images/promo-banner-mid.jpg">
+                         <img src="~/assets/image/bg-images/promo-banner-mid.jpg" alt="">
                     </a>
                     <div class="promo-text">
                         <div class="promo-text-inner">
@@ -2517,8 +2525,8 @@ Promotion Section Two
             <div class="col-lg-4 mb--30">
                 <div class="promo-wrapper promo-type-two ">
                     <a href="#" class="promo-image promo-overlay bg-image"
-                       data-bg="image/bg-images/promo-banner-small.jpg">
-                        <!-- <img src="~/assets/image/bg-images/promo-banner-small.jpg" alt=""> -->
+                       data-bg="~/assets/image/bg-images/promo-banner-small.jpg">
+                         <img src="~/assets/image/bg-images/promo-banner-small.jpg" alt=""> 
                     </a>
                     <div class="promo-text">
                         <div class="promo-text-inner">
@@ -2855,7 +2863,7 @@ ARTS & PHOTOGRAPHY BOOKS
 ===================================== -->
 <section class="section-margin">
     <div class="promo-wrapper promo-type-three">
-        <a href="#" class="promo-image promo-overlay bg-image" data-bg="image/bg-images/promo-banner-full.jpg">
+        <a href="#" class="promo-image promo-overlay bg-image" data-bg="~/assets/image/bg-images/promo-banner-full.jpg">
         </a>
         <div class="promo-text w-100 ml-0">
             <div class="container">

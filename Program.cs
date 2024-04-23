@@ -1,7 +1,15 @@
+using Microsoft.EntityFrameworkCore;
+using Pustok.DAL;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+builder.Services.AddDbContext<PustokDbContext>(opt=>
+{
+    opt.UseSqlServer("Server=YEGANA\\SQLEXPRESS;Database=Pustok;Trusted_Connection=True") ;
+
+});
 
 var app = builder.Build();
 
