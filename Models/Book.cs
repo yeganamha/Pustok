@@ -25,8 +25,14 @@ namespace Pustok.Models
 
         [Required]
         public bool StockStatus { get; set; }
+        public bool IsBestSeller { get; set; }
+        public bool IsNew { get; set; }
+        public DateTime CreatedAt { get; set; }
+        public DateTime ModifiedAt { get; set; }
 
         public Genre Genre { get; set; }
         public Author Author { get; set; }
+        public ICollection<BookTag> BookTags { get; set; }
+        public ICollection<BookImage> BookImages { get; set; }
     }
 }

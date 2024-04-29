@@ -15,6 +15,7 @@ namespace Pustok.DAL
         public DbSet<Genre> Genres { get; set; }
         public DbSet<Tag> Tags { get; set; }
         public DbSet<BookTag> BookTags { get; set; }
+        public DbSet<BookImage> BookImages { get; set; }
 
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

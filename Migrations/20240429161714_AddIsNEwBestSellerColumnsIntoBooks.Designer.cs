@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Pustok.DAL;
 
@@ -11,9 +12,10 @@ using Pustok.DAL;
 namespace Pustok.Migrations
 {
     [DbContext(typeof(PustokDbContext))]
-    partial class PustokDbContextModelSnapshot : ModelSnapshot
+    [Migration("20240429161714_AddIsNEwBestSellerColumnsIntoBooks")]
+    partial class AddIsNEwBestSellerColumnsIntoBooks
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -94,30 +96,6 @@ namespace Pustok.Migrations
                     b.HasIndex("GenreId");
 
                     b.ToTable("Books");
-                });
-
-            modelBuilder.Entity("Pustok.Models.BookImage", b =>
-                {
-                    b.Property<int>("Id")
-                        .ValueGeneratedOnAdd()
-                        .HasColumnType("int");
-
-                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"), 1L, 1);
-
-                    b.Property<int>("BookId")
-                        .HasColumnType("int");
-
-                    b.Property<string>("Image")
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<bool?>("PosterStatus")
-                        .HasColumnType("bit");
-
-                    b.HasKey("Id");
-
-                    b.HasIndex("BookId");
-
-                    b.ToTable("BookImages");
                 });
 
             modelBuilder.Entity("Pustok.Models.BookTag", b =>
@@ -227,21 +205,10 @@ namespace Pustok.Migrations
                     b.Navigation("Genre");
                 });
 
-            modelBuilder.Entity("Pustok.Models.BookImage", b =>
-                {
-                    b.HasOne("Pustok.Models.Book", "Book")
-                        .WithMany("BookImages")
-                        .HasForeignKey("BookId")
-                        .OnDelete(DeleteBehavior.Cascade)
-                        .IsRequired();
-
-                    b.Navigation("Book");
-                });
-
             modelBuilder.Entity("Pustok.Models.BookTag", b =>
                 {
                     b.HasOne("Pustok.Models.Book", "Book")
-                        .WithMany("BookTags")
+                        .WithMany()
                         .HasForeignKey("BookId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
@@ -260,13 +227,6 @@ namespace Pustok.Migrations
             modelBuilder.Entity("Pustok.Models.Author", b =>
                 {
                     b.Navigation("Books");
-                });
-
-            modelBuilder.Entity("Pustok.Models.Book", b =>
-                {
-                    b.Navigation("BookImages");
-
-                    b.Navigation("BookTags");
                 });
 
             modelBuilder.Entity("Pustok.Models.Genre", b =>
