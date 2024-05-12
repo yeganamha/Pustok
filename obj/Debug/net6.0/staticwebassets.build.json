@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "vN/XifpWQDBvoDHDXGARSEh/LErTbjkukqVghgTpVDQ=",
+  "Hash": "mWvPDOkh7yF+1dDzMd7xPslAd5tWSpj+RZT3YR9Vtno=",
   "Source": "Pustok",
   "BasePath": "_content/Pustok",
   "Mode": "Default",
@@ -1749,6 +1749,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\js\\custom.js"
+    },
+    {
+      "Identity": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\assets\\js\\main.js",
+      "SourceId": "Pustok",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\",
+      "BasePath": "_content/Pustok",
+      "RelativePath": "assets/js/main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\js\\main.js"
     },
     {
       "Identity": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\assets\\js\\plugins.js",
