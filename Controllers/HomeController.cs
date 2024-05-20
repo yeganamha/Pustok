@@ -28,6 +28,11 @@ namespace Pustok.Controllers
             return View(vm);
         }
 
+        public IActionResult Contact()
+        {
+            return View();
+        }
+
        
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
