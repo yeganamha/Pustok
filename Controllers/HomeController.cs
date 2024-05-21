@@ -34,6 +34,29 @@ namespace Pustok.Controllers
         }
 
        
+        public IActionResult SetSession(string key, string value)
+        {
+            HttpContext.Session.SetString(key, value);
+            return Content("");
+        }
+
+        public IActionResult GetSession(string key) 
+        {
+            var value = HttpContext.Session.GetString(key);
+            return Content(value);
+        }
+
+        public IActionResult SetCookie(string key, string value)
+        {
+            HttpContext.Response.Cookies.Append(key, value);
+            return Content("");
+        }
+
+        public IActionResult GetCookie(string key) 
+        {
+            var value = HttpContext.Request.Cookies[key];
+            return Content(value);
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()
