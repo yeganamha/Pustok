@@ -18,14 +18,25 @@ namespace Pustok.Controllers
             if (basket == null) 
             {
                 ids = new List<BasketItemViewModel>();
+                 ids.Add(new BasketItemViewModel { Count=1, BookId=id});   
             }
             else 
             {
                 ids = JsonConvert.DeserializeObject<List<BasketItemViewModel>>(basket);
+                var wantedBook = ids.FirstOrDefault(x=> x.BookId==id);
 
+                if (wantedBook != null) 
+                {
+                    ids.Add(new BasketItemViewModel { Count = 1, BookId = id });
+                }
+
+                else
+                {
+                    wantedBook.Count++;
+                }
                 
             }
-            ids.Add(new BasketItemViewModel { Count=1, BookId=id});    
+            
 
 
             
