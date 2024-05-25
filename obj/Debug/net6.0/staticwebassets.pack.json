@@ -413,6 +413,1058 @@
       "PackagePath": "staticwebassets\\assets\\js\\plugins.js"
     },
     {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\css\\sb-admin-2.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\css\\sb-admin-2.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\css\\sb-admin-2.min.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\css\\sb-admin-2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\img\\undraw_posting_photo.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\img\\undraw_posting_photo.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\img\\undraw_profile.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\img\\undraw_profile.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\img\\undraw_profile_1.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\img\\undraw_profile_1.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\img\\undraw_profile_2.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\img\\undraw_profile_2.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\img\\undraw_profile_3.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\img\\undraw_profile_3.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\img\\undraw_rocket.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\img\\undraw_rocket.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\js\\demo\\chart-area-demo.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\js\\demo\\chart-area-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\js\\demo\\chart-bar-demo.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\js\\demo\\chart-bar-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\js\\demo\\chart-pie-demo.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\js\\demo\\chart-pie-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\js\\demo\\datatables-demo.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\js\\demo\\datatables-demo.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\js\\sb-admin-2.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\js\\sb-admin-2.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\js\\sb-admin-2.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\js\\sb-admin-2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_code.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_input-group.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_media.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_print.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_interactions.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\chart.js\\Chart.bundle.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\chart.js\\Chart.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\chart.js\\Chart.bundle.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\chart.js\\Chart.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\chart.js\\Chart.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\chart.js\\Chart.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\datatables\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\datatables\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\datatables\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\datatables\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\datatables\\dataTables.bootstrap4.min.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\datatables\\dataTables.bootstrap4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\datatables\\dataTables.bootstrap4.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\datatables\\dataTables.bootstrap4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\datatables\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\datatables\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\datatables\\jquery.dataTables.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\datatables\\jquery.dataTables.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\attribution.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\attribution.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\all.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\all.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\all.min.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\all.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\brands.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\brands.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\brands.min.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\brands.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\fontawesome.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\fontawesome.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\fontawesome.min.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\fontawesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\regular.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\regular.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\regular.min.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\regular.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\solid.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\solid.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\solid.min.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\solid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\svg-with-js.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\v4-shims.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\v4-shims.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\css\\v4-shims.min.css",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\css\\v4-shims.min.css"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\all.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\all.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\all.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\all.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\brands.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\brands.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\brands.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\brands.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\conflict-detection.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\conflict-detection.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\conflict-detection.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\conflict-detection.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\fontawesome.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\fontawesome.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\fontawesome.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\fontawesome.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\regular.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\regular.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\regular.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\regular.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\solid.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\solid.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\solid.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\solid.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\v4-shims.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\v4-shims.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\js\\v4-shims.min.js",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\js\\v4-shims.min.js"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_animated.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_animated.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_bordered-pulled.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_core.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_core.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_fixed-width.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_icons.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_icons.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_larger.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_larger.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_list.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_list.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_mixins.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_rotated-flipped.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_screen-reader.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_shims.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_shims.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_stacked.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\_variables.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\_variables.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\brands.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\brands.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\fontawesome.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\fontawesome.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\regular.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\regular.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\solid.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\solid.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\less\\v4-shims.less",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\less\\v4-shims.less"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\metadata\\categories.yml",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\metadata\\categories.yml"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\metadata\\icons.yml",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\metadata\\icons.yml"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\metadata\\shims.yml",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\metadata\\shims.yml"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\metadata\\sponsors.yml",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\metadata\\sponsors.yml"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\package.json",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\package.json"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_shims.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\brands.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\brands.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\fontawesome.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\fontawesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\regular.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\regular.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\solid.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\solid.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\scss\\v4-shims.scss",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\scss\\v4-shims.scss"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\sprites\\brands.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\sprites\\brands.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\sprites\\regular.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\sprites\\regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\sprites\\solid.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\sprites\\solid.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\500px.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\500px.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\accessible-icon.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\accessible-icon.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\accusoft.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\accusoft.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\acquisitions-incorporated.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\acquisitions-incorporated.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\adn.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\adn.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\adversal.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\adversal.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\affiliatetheme.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\affiliatetheme.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\airbnb.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\airbnb.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\algolia.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\algolia.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\alipay.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\alipay.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\amazon-pay.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\amazon-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\amazon.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\amazon.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\amilia.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\amilia.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\android.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\android.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\angellist.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\angellist.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\angrycreative.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\angrycreative.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\angular.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\angular.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\app-store-ios.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\app-store-ios.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\app-store.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\app-store.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\apper.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\apper.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\apple-pay.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\apple-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\apple.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\apple.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\artstation.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\artstation.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\asymmetrik.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\asymmetrik.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\atlassian.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\atlassian.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\audible.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\audible.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\autoprefixer.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\autoprefixer.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\avianex.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\avianex.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\aviato.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\aviato.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\aws.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\aws.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bandcamp.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bandcamp.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\battle-net.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\battle-net.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\behance-square.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\behance-square.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\behance.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\behance.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bimobject.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bimobject.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bitbucket.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bitbucket.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bitcoin.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bitcoin.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bity.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bity.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\black-tie.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\black-tie.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\blackberry.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\blackberry.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\blogger-b.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\blogger-b.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\blogger.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\blogger.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bluetooth-b.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bluetooth-b.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bluetooth.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bluetooth.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bootstrap.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\bootstrap.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\btc.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\btc.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\buffer.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\buffer.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\buromobelexperte.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\buromobelexperte.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\buy-n-large.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\buy-n-large.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\buysellads.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\buysellads.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\canadian-maple-leaf.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\canadian-maple-leaf.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-amazon-pay.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-amazon-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-amex.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-amex.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-apple-pay.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-apple-pay.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-diners-club.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-diners-club.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-discover.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-discover.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-jcb.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-jcb.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-mastercard.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-mastercard.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-paypal.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-paypal.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-stripe.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-stripe.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-visa.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cc-visa.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\centercode.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\centercode.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\centos.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\centos.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\chrome.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\chrome.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\chromecast.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\chromecast.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cloudflare.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cloudflare.svg"
+    },
+    {
+      "Id": "C:\\Users\\yegan\\OneDrive\\Desktop\\back-end-practise\\Pustok\\wwwroot\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cloudscale.svg",
+      "PackagePath": "staticwebassets\\manage\\assets\\vendor\\fontawesome-free\\svgs\\brands\\cloudscale.svg"
+    },
+    {
       "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Pustok.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },
