@@ -78,5 +78,31 @@ namespace Pustok.Areas.Manage.Controllers
             _context.SaveChanges();
             return RedirectToAction("Index");
         }
+
+        public IActionResult Delete(int id)
+        {
+          
+
+            Author existAuthor = _context.Authors.Find(id);
+
+            if (existAuthor == null)    
+                return View("Error");
+
+            return View(existAuthor);
+        }
+
+        [HttpPost]
+        public IActionResult Delete(Author author)
+        {
+            Author existAuthor = _context.Authors.Find(author.Id);
+
+            if (existAuthor == null)
+                return View("Error");
+
+            _context.Authors.Remove(existAuthor);
+            _context.SaveChanges();
+            return RedirectToAction("Index");
+        }
+        
     }
 }
