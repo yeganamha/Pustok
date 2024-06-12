@@ -39,11 +39,44 @@ namespace Pustok.Areas.Manage.Controllers
             if(!ModelState.IsValid)
                 return View(author);
 
+            if (_context.Authors.Any(x => x.FullName == author.FullName))
+            {
+                ModelState.AddModelError("Fullname", "The Fullname already taken");
+                return View();
+            }
+
             _context.Authors.Add(author);
             _context.SaveChanges();
 
             return RedirectToAction("Index");
 
+        }
+
+        public IActionResult Update(int id)
+        {
+            Author author = _context.Authors.Find(id);
+            return View(author);
+        }
+
+        [HttpPost]
+        public IActionResult Update(Author author)
+        {
+            if(!ModelState.IsValid)
+                return View();
+            
+
+            if (_context.Authors.Any(x => x.FullName == author.FullName))
+            {
+                ModelState.AddModelError("Fullname", "The Fullname already taken");
+                return View();
+            }
+            Author existAuthor = _context.Authors.Find(author.Id); 
+
+            if (existAuthor == null)
+                return View("Error");
+            existAuthor.FullName = author.FullName;
+            _context.SaveChanges();
+            return RedirectToAction("Index");
         }
     }
 }
