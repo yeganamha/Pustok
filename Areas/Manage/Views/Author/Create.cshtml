@@ -1,0 +1,25 @@
+﻿@model Author
+@{
+    ViewData["Title"] = "Create";
+}
+
+
+<div>
+    <div class="row justify-content-center">
+        <div class="col-md-7">
+            <form method="post">
+                <div class="form-group">
+                    <label for="exampleInputEmail1">FullName</label>
+                    <input asp-for="FullName" type="text" class="form-control" id="Fullname" name="Fullname" aria-describedby="emailHelp" placeholder="Enter Fullname">
+                    <span class="text-danger" asp-validation-for="FullName"></span>
+                </div>
+
+
+                <button type="submit" class="btn btn-primary">Submit</button>
+            </form>
+        </div>
+
+    </div>
+</div>
+
+

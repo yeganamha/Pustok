@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\yegan\OneDrive\Desktop\back-end-practise\Pustok
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/yegan/OneDrive/Desktop/back-end-practise/Pustok/Areas/Manage/Views/Author/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEF1dGhvclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/yegan/OneDrive/Desktop/back-end-practise/Pustok/Areas/Manage/Views/Author/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = QXJlYXNcTWFuYWdlXFZpZXdzXEF1dGhvclxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 

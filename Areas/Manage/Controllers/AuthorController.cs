@@ -1,6 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Pustok.DAL;
+using Pustok.Models;
 
 namespace Pustok.Areas.Manage.Controllers
 {
@@ -22,6 +23,27 @@ namespace Pustok.Areas.Manage.Controllers
                 .Take(2).ToList();
 
             return View(model);
+        }
+
+
+        [HttpGet]
+        public IActionResult Create() 
+        {
+            return View();
+        }
+
+
+        [HttpPost]
+        public IActionResult Create(Author author)
+        {
+            if(!ModelState.IsValid)
+                return View(author);
+
+            _context.Authors.Add(author);
+            _context.SaveChanges();
+
+            return RedirectToAction("Index");
+
         }
     }
 }
